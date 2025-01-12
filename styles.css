@@ -1,0 +1,243 @@
+
+    
+/* .font-text{
+    font-style: Fira Sans;
+    font-weight: 622px;
+    font-size: 24px; */
+
+/* .font-continer{
+     background-color: #C6E4D6;
+    font-style: Fira Sans;
+    font-size: Bold;
+    width: 1280px;
+    height: 560px;
+    
+      */
+ 
+    .baba {
+        
+        justify-content: space-between;
+        background-color: #C6E4D6;
+        font-style: Fira Sans;
+        font-size: Bold;
+        /* width: 1280px; */
+        height: 560px;
+     
+        display: flex;
+        
+        border-radius: 24px; 
+        
+        
+        background-repeat: no-repeat;
+         
+    
+ } 
+
+.justok{
+   width: 1280px;
+   height: 120px;
+}
+
+
+
+
+ /* bangla styles */
+ .bangla-greetings{
+    font-size: 24px;
+    font-weight: 622px;
+    color: #0a0a0a80;
+    
+
+ }
+  .btn-primary{
+    background-color:#006A50 ;
+    color: #FFFFFF;
+    width: 270px;
+    height: 56px;
+    border-radius: 8px;
+    margin: 34px 0px 17px 0px;
+ } 
+  
+    
+   
+.My-button{
+    position: absolute;
+    bottom:auto;
+    left: auto;
+    background-color: #5490F5;
+    width: 122px;
+    height: 41px;
+    padding: 20px  0 11px 0p;
+    border-radius: 8px;
+    
+    
+}
+
+
+
+.pic{
+   position: relative;
+   
+    width:346px;
+    height:108px;
+    border-radius: 8px;
+}
+
+ .two{
+   font-weight:346px;
+   
+   }
+   .bodar2{
+      width: 410.67px;
+      height: 325px; 
+      border-radius: 14px;
+      background-color:#C6E4D6;
+      display: flex;
+      left: auto;
+      margin-top: 20pxs;
+    }
+   
+
+.btn-primary2 {  
+    
+    background-color: #09A15C;
+     width: 122px;
+     height: 41px;
+     
+     border-radius: 8px;
+  
+     /*  .about-item.btn-primary{
+    width: 122px;
+    height: 41px;
+    padding: 20px 11px;
+    display: flex;
+    justify-items: normal;
+    
+    
+ } */
+    
+    
+    
+  
+
+}
+.btn-primary5{
+   background-color: #FFC239;
+   width: 122px;
+   height: 41px;
+   
+   border-radius: 8px;
+   left: auto; 
+   
+   justify-content: flex-end;
+   align-self: flex-end;
+}
+
+
+ .bangla-title{
+    font-weight: bold;
+    font-size: 56px;
+    width: 622px;
+    height: 201px;
+ }
+ .bangla-profile-pic{
+    width: 470.03px;
+    height: 400px;
+    margin-top:100px;
+    
+    
+ }
+ .bangla-content{
+    max-width: 622px;
+ }
+
+
+ .section-title{
+    font-size: bold;
+    color: #0E0E0E;
+    width: 1280px;
+    height: 17px;
+    margin-top: 48px;
+    padding: 5px;
+
+ }
+ .section-description{
+   
+    color: #0e0e0e5c;
+    width: 1280px;
+    height: 120px;
+    margin-bottom: 32px;
+    padding: 5px;
+
+ }
+ .secondary-bg{
+    background-color:#F1F1F3 ;
+ }
+ /* about style */
+
+/* 
+ .obr{
+    width: 1280px;
+    height: 765px;
+    display: flex;
+    justify-content:space-around;
+  } */
+   
+/* 
+   .main{
+    max-width: 1600px;
+    margin: 0 auto;
+   }
+  */
+
+
+  .bodar-container{
+   display: flex;
+    width: 410px;
+    height: 325px;
+    border-radius: 16px;
+    background-color:#548ff53b ;
+
+    .one{
+        text-align:end;
+    }
+
+
+  }
+  
+  
+  .bodar3{
+    width: 410.67px;
+    height: 325px;
+    border-radius: 16px;
+    background-color:#F7EBCF;
+
+  }
+  
+  .num2{
+    width: 1280px;
+    height: 325px;
+    
+  }
+  .pic{
+    width: 64px;
+    height: 64px;
+    margin-top: right;
+}
+.pargrap{
+    width: 1280px;
+    height: 96px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    background-image: url(/B11A1--assignment-1/assets/quote-bg.png);
+    background-repeat: no-repeat;
+    padding-top: 5px;
+    border: 1px solid;
+    
+
+}
+    
+
+   
+
+
