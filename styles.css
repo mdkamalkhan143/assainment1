@@ -190,13 +190,14 @@
    }
   */
 
-
+  
   .bodar-container{
    display: flex;
     width: 410px;
     height: 325px;
     border-radius: 16px;
     background-color:#548ff53b ;
+
 
     .one{
         text-align:end;
@@ -229,7 +230,7 @@
     height: 96px;
     background-color: #FFFFFF;
     border-radius: 16px;
-    background-image: url(/B11A1--assignment-1/assets/quote-bg.png);
+    background-image: url(./B11A1--assignment-1/assets/quote-bg.png);
     background-repeat: no-repeat;
     padding-top: 5px;
     border: 1px solid;
