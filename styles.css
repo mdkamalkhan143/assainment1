@@ -81,6 +81,7 @@
     width:346px;
     height:108px;
     border-radius: 8px;
+    
 }
 
  .two{
@@ -144,6 +145,7 @@
     width: 470.03px;
     height: 400px;
     margin-top:100px;
+    
     
     
  }
@@ -237,8 +239,74 @@
     
 
 }
-    
+.photo1{
+   border-radius: 24px;
+}
 
+.btn-primaryk{
+   width: 139px;
+   height: 48px; 
+   border-radius: 8px;
+   background-color: #006A50;
    
+}    
+
+.btn-primarya{
+   width: 139px;
+   height: 48px; 
+   border-radius: 8px;
+   background-color: #006A50;
+   
+}    
+.btn-primarym{
+   width: 139px;
+   height: 48px; 
+   border-radius: 8px;
+   background-color: #006A50;
+   
+} 
+
+
+.taka{
+   width: 240px;
+   height: 128px;
+   background-color: #f9f6f6;
+   border-radius: 16px;
+   color: #0e0e0ecc;
+   
+   
+}
+.froms{
+   display: flex;
+   left: auto;
+}
+
+.taka4{
+   width: 240px;
+   height: 128px;
+   background-color: #f9f6f6;
+   border-radius: 16px;
+}
+.taka2{
+   width: 240px;
+   height: 128px;
+   background-color: #C6E4D6;
+   border-radius: 16px;
+}
+.taka3{
+   width: 240px;
+   height: 128px;
+   background-color: #f9f6f6;
+   border-radius: 16px;
+}
+ 
+.picbaba{
+   display: flex;
+}
+.phobaba{
+   display: flex;
+   left: auto;
+
+}
 
 
