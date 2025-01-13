@@ -13,7 +13,9 @@
     height: 560px;
     
       */
- 
+    body{
+      background-color: #F1F1F3;
+    }
     .baba {
         
         justify-content: space-between;
@@ -76,8 +78,8 @@
 
 
 .pic{
-   position: relative;
-   
+  
+   position-area: right;
     width:346px;
     height:108px;
     border-radius: 8px;
@@ -93,7 +95,7 @@
       height: 325px; 
       border-radius: 14px;
       background-color:#C6E4D6;
-      display: flex;
+      
       left: auto;
       margin-top: 20pxs;
     }
@@ -199,12 +201,11 @@
     height: 325px;
     border-radius: 16px;
     background-color:#548ff53b ;
+    margin-right: 24px;
 
 
-    .one{
-        text-align:end;
-    }
 
+    
 
   }
   
@@ -214,6 +215,7 @@
     height: 325px;
     border-radius: 16px;
     background-color:#F7EBCF;
+    margin-left: 24px;
 
   }
   
@@ -232,15 +234,20 @@
     height: 96px;
     background-color: #FFFFFF;
     border-radius: 16px;
-    background-image: url(./B11A1--assignment-1/assets/quote-bg.png);
+    background-image: url(./assets/quote-bg.png);
     background-repeat: no-repeat;
     padding-top: 5px;
-    border: 1px solid;
+    border: 1px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    
     
 
 }
 .photo1{
    border-radius: 24px;
+   width: 408px;
+   height: 306px;
 }
 
 .btn-primaryk{
@@ -248,6 +255,8 @@
    height: 48px; 
    border-radius: 8px;
    background-color: #006A50;
+ 
+   
    
 }    
 
@@ -263,6 +272,7 @@
    height: 48px; 
    border-radius: 8px;
    background-color: #006A50;
+  
    
 } 
 
@@ -300,13 +310,78 @@
    border-radius: 16px;
 }
  
-.picbaba{
+/* .picbaba{
+   display: flex; 
+} */
+ .phobaba{
    display: flex;
-}
-.phobaba{
+   left: auto;
+   margin-top: 32px;
+   margin-bottom: 32px;
+   
+
+} 
+.textbaba{
    display: flex;
    left: auto;
 
+   border: 1px;
+   border-radius:24px ;
+   background-color: #FFFFFF;
+   padding: 48px 48px 32px 32px;
+   height: 322px;
 }
+ .textbaba2{
+   display: flex;
+   left: auto;
+   margin-top: 24px;
+   border: 1px;
+   border-radius:24px ;
+   background-color: #FFFFFF;
+   
+   height: 322px;
+   padding: 48px 48px 32px 32px; 
+
+  
+
+
+}
+.textbaba3{
+    display: flex;
+   left: auto;
+   margin-top: 24px;
+   border: 1px;
+   border-radius:24px ;
+   background-color: #FFFFFF;
+   height: 322px;
+   padding: 48px 48px 32px 32px; 
+
+}
+.margink{
+   margin-left: 32px;
+   color: #0e0e0eb3;
+   
+
+}
+
+.margina{
+   margin-right: 32px;
+}
+
+
+.marginm{
+   margin-left: 32px;
+}
+
+/* 
+.uop{
+   size: 16px;
+   font-style: bold;
+} */
+/* .psize{
+   width: 134px;
+   height: 40px;
+} */
+
 
 
